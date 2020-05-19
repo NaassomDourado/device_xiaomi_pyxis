@@ -380,6 +380,7 @@
                        sources="primary output,deep_buffer,direct_pcm,voip_rx"/>
                 <route type="mix" sink="BT A2DP Speaker"
                        sources="primary output,deep_buffer,direct_pcm,voip_rx"/>
+                <route type="mix" sink="hifi_input" sources="USB Device In,USB Headset In" />
             </routes>
 
         </module>
