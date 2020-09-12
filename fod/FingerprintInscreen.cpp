@@ -25,7 +25,7 @@
 #include <cmath>
 
 #define COMMAND_NIT 10
-#define PARAM_NIT_630_FOD 1
+#define PARAM_NIT_630_FOD 3
 #define PARAM_NIT_NONE 0
 
 #define DISPPARAM_PATH "/sys/devices/platform/soc/ae00000.qcom,mdss_mdp/drm/card0/card0-DSI-1/disp_param"
@@ -39,7 +39,7 @@
 #define FOD_ERROR 8
 #define FOD_ERROR_VENDOR 6
 
-#define FOD_SENSOR_X 445
+#define FOD_SENSOR_X 455
 #define FOD_SENSOR_Y 1910
 #define FOD_SENSOR_SIZE 190
 
