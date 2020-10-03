@@ -14,6 +14,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 PRODUCT_DEVICE := pyxis
 PRODUCT_NAME := bliss_pyxis
 PRODUCT_BRAND := Xiaomi
+PRODUCT_MODEL := MI 9 Lite
 PRODUCT_MANUFACTURER := Xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
